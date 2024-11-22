@@ -103,8 +103,8 @@
 .btn-success:focus,
 .btn-success:hover,
 .open > .dropdown-toggle.btn-success {
-  background-color: #81c868 !important;
-  border: 1px solid #81c868 !important;
+  background-color: #254917 !important;
+  border: 1px solid #1e6604 !important;
 }
 .btn-info,
 .btn-info:hover,
@@ -315,7 +315,7 @@
 .table > thead > tr.active > th,
 .table > tbody > tr.active > th,
 .table > tfoot > tr.active > th {
-  background-color: #f4f8fb !important;
+  background-color: #cbe2f3 !important;
 }
 .table > thead > tr > th,
 .table > tbody > tr > th,
@@ -681,7 +681,7 @@ ul.ColVis_collection li {
 }
 .btn-instagram {
   color: #ffffff !important;
-  background-color: #517fa4 !important;
+  background-color: #a151a4 !important;
 }
 .btn-pinterest {
   color: #ffffff !important;

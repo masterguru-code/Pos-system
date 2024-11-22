@@ -28,8 +28,8 @@ module.exports = {
           "name": "@electron-forge/publisher-github",
           "config": {
             "repository": {
-              "owner": "drkNsubuga",
-              "name": "PharmaSpot",
+              "owner": "MASTERGURU",
+              "name": "POS",
               "draft": true
             }
           }

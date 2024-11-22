@@ -2,11 +2,11 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,300);
 
 body {
-    background:radial-gradient(circle, #81c868 0%, #eee 100%);
+    background:radial-gradient(circle, #347e19 20%, #03c765 100%);
     font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin: 0;
     overflow-x: hidden;
-    color: #797979;
+    color: #666464;
 }
 
 html {
